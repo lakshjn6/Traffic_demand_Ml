@@ -86,7 +86,6 @@ leaderboard. The extended training file carries the matching rows, producing R²
 
 ## Repository Layout
 
-![Repository Structure](assets/04_repo_structure.jpg)
 
 ```
 traffic-demand-predictor/
